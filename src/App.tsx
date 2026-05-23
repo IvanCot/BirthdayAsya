@@ -643,7 +643,7 @@ export default function App() {
               Немножко милостей
             </h2>
             <p className="text-sm text-stone-500 font-sans leading-relaxed font-light">
-              Понажимай на эти кнопочки, чтобы раскрыть маленькие секреты и вызвать волну приятных эмоций прямо сейчас.
+              Понажимай на эти кнопки, чтобы раскрыть маленькие секреты и вызвать волну приятных эмоций прямо сейчас.
             </p>
           </div>
 
@@ -668,7 +668,7 @@ export default function App() {
                 {CONFIG.interactiveButtons.more.label}
               </h4>
               <p className="text-xs text-stone-500 leading-normal font-sans tracking-wide">
-                Тысячи приятных слов и тёплых фраз
+                Листай ниже, чтобы прочитать тысячи приятных слов и тёплых фраз
               </p>
             </motion.div>
 
